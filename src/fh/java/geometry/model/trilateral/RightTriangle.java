@@ -81,5 +81,5 @@ public class  RightTriangle extends TriangularShape {
         return sideA + sideB + calcSideC();
     }
 
-    
+
 }
